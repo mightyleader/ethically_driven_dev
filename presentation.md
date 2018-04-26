@@ -1,6 +1,7 @@
-footer: © 2017 notonthehighstreet.com
+footer: © 2018 Cocoadelica
 slidenumbers: true
 build-lists: true
+autoscale: true
 
 ![filtered](https://68.media.tumblr.com/d60a9c922a8b4c770dc0e55e91c87bc7/tumblr_okrnoy7mAV1qh66wqo3_540.jpg)
 #[fit]Ethically 
@@ -37,10 +38,10 @@ Development tools = abstractions upon abstractions to remove work
 
 ---
 
-![filtered](/Users/rob/Desktop/Ethically Driven Development/images/coffee.jpg) 
+![filtered](images/coffee.jpg) 
 
 ^ Every day, very often without thinking about it, we make ethical decisions.
-Getting an espresso from Butter Beans instead of Starbucks might just mean you didn’t want to cross the road or it might mean you have an unconscious preference for small retailers.
+Getting an espresso from The 404 instead of Pret might just mean you didn’t want to cross the road or it might mean you have an unconscious preference for small retailers.
 
 ---
 
@@ -61,7 +62,7 @@ think of horror inflicted by “I was just following orders”.
 #[fit]Honesty
 #[fit]Discretion
 ^2 areas that leap out to me are Honesty and Discretion.
-Our People and Legal team give training and guidance on NOTHS expectations .
+Our People and Legal team give training and guidance on MOO expectations .
 
 ^Take aways?
 
@@ -77,17 +78,16 @@ Our People and Legal team give training and guidance on NOTHS expectations .
 Also recognise dishonesty and how to respond.
 ^Discretion is respect for sensitivity for personal data.
 
-^So what does this have to do with being a Developer/UX/PO…?
+^So what does this have to do with being a Developer/ExD/PO…?
 
 ---
 
-![filtered](https://firstsliveone.files.wordpress.com/2010/02/tightrope1.jpg)
+![filtered](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1373501%2Fimages%2Fo-TIGHTROPE-facebook.jpg&f=1)
 #WHY
 
 ^Let's stand back and set the stage'
 ^Better experience,  return more often, buy more things.
-^Partners sell more products, we make more money in order to continue the cycle.
-^DELICATE BALANCE between  virtuous supporting of partners & the needs of the company. 
+^DELICATE BALANCE between improving cust. exp. & the needs of the company. 
 cost of business, value to shareholders and investors.
 ^How do we know if what we do works?
 
@@ -119,16 +119,16 @@ Going to use it  test case for ethical decisions at developer level.
 
 ---
 
-![filtered](https://68.media.tumblr.com/937602d785cb7a23784d0c11d27f5a09/tumblr_oltji67GGW1s7lcqjo1_1280.jpg)
-
-*Although names, addresses and other information directly linked to card owners had been scrubbed from the data set, de Montjoye and his colleagues could pick out* __*90% of individuals*__ *if they knew the date and location of* __*just four of their credit-card transactions*__.[^1]
+<!--![filtered](https://68.media.tumblr.com/937602d785cb7a23784d0c11d27f5a09/tumblr_oltji67GGW1s7lcqjo1_1280.jpg)
+-->
+###*"...although names, addresses and other information directly linked to card owners had been scrubbed from the data set, de Montjoye and his colleagues could pick out* __*90% of individuals*__ *if they knew the date and location of* __*just four of their credit-card transactions*__" [^1]
 
 ^ Credit Cards - de Montjoye, Radaelli, Singh, Pentland. Science 2015.
 ^ How does that sit with our concept of discretion with our users data?
 
 ---
 
-![filtered](http://blog.codinghorror.com/content/images/uploads/2008/03/6a0120a85dcdae970b0120a86db856970b-pi.jpg)
+![filtered, right, 90%](http://2.bp.blogspot.com/_PLL6BKTjMU4/TJfDxmgSRnI/AAAAAAAADso/s14Lzoo7Alc/s1600/choose-your-own-adventure-inside-ufo-54-40.jpg)
 ##[fit]choose
 ##[fit]your own
 ##[fit]adventure
@@ -193,7 +193,7 @@ Why?
 ---
 
 ![right](http://68.media.tumblr.com/b90fe0d83a73b9a35083898b6857d08c/tumblr_nkdzxpnQRv1u1hvc9o1_1280.jpg)
-#previously in Pivotal...
+#previously in JIRA...
 
 - They trusted the process has been done above them
 - “I don’t care that much”
@@ -205,16 +205,16 @@ Why?
 
 ---
 
-![right, filtered](https://pbs.twimg.com/profile_images/131292719/4203889533a5613998047l.jpg)
+![right](https://pbs.twimg.com/profile_images/131292719/4203889533a5613998047l.jpg)
 #One day...
 - A customer calls to ask what the company data policy is.
 - They are directed to the privacy policy.
-- The customer asks what software use to collect usage data.
+- The customer asks what software we use to collect data.
 - They are directed to AcmeAnalytics.io
 
 ---
 
-![left, filtered](https://i.ytimg.com/vi/YVYW-4zPKLE/hqdefault.jpg)
+![left](https://i.ytimg.com/vi/YVYW-4zPKLE/hqdefault.jpg)
 #The next day...
 - They have read the Ts & Cs 
 - They don’t like how data is being used.
